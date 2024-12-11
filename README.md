@@ -2,8 +2,7 @@
 - 👀 I’m interested in ... programming!
 - 🌱 I’m currently learning ...Python!
 - 💞️ I’m looking to collaborate on ...Fun projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me ... bnewsletter88@gmail.com
 - ⚡ Fun fact: ... I've had a total of 16 pet rats. 
 
 <!---
